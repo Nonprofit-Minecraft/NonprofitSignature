@@ -1,0 +1,4 @@
+name: NonprofitSignature
+main: org.nonprofit_minecraft.signature.bukkit.NonprofitSignaturePlugin
+version: 1
+website: nonprofit-minecraft.org
