@@ -2,6 +2,7 @@
 .settings/
 .externalToolBuilders/
 .classpath
+.project
 
 # intellij
 *.iml
@@ -53,3 +54,6 @@ dist/
 META-INF/
 manifest.mf
 *.bak
+
+# maven
+dependency-reduced-pom.xml
