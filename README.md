@@ -1,6 +1,6 @@
 # Nonprofit Signature
 
-> 这是一个通过 [bStats](https://bstats.org/plugin/bukkit/NonprofitSignature) 用于统计公益服务器的插件
+> 这是一个通过 [bStats](https://bstats.org/plugin/bukkit/NonprofitSignature) 统计公益服务器的插件
 
 ### 安装
 * 支持 `Bukkit API`, `BungeeCord API` 及 `Sponge API`
