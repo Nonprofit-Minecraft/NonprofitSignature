@@ -1,4 +1,4 @@
-## Nonprofit Signature
+# Nonprofit Signature
 
 > 这是一个通过 [bStats](https://bstats.org/plugin/bukkit/NonprofitSignature) 用于统计公益服务器的插件
 
