@@ -5,7 +5,7 @@ import org.spongepowered.api.plugin.Plugin;
 
 import com.google.inject.Inject;
 
-@Plugin(id = "nonprofit_signature", name = "NonprofitSignature", version = "1")
+@Plugin(id = "nonprofit_signature", name = "NonprofitSignature", version = "1", authors = "NPSCO")
 public class SpongePlugin {
     @Inject
     private Metrics2 metrics;
