@@ -1,5 +1,5 @@
 name: NonprofitSignature
-main: org.nonprofit_minecraft.signature.bukkit.BukkitPlugin
+main: org.nonprofit_minecraft.signature.bungee.BungeePlugin
 version: 1
 website: nonprofit-minecraft.org
 author: NPSCO
